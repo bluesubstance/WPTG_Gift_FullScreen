@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "85b7b70a-9164-42a5-8b87-daca6d1fe885",
+  "uuid": "2aabfc59-1725-4263-8e41-b9820aa7fcee",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -8,15 +8,15 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
-  "width": 26,
-  "height": 25,
+  "width": 512,
+  "height": 512,
   "platformSettings": {},
   "subMetas": {
-    "Frame_Name": {
+    "Ice_ScreenTile_2": {
       "ver": "1.0.6",
-      "uuid": "a0c6ae5d-fb40-464e-8b24-3ce6ec4338f6",
+      "uuid": "4f1c99c0-cce9-4582-9863-1e162997efe8",
       "importer": "sprite-frame",
-      "rawTextureUuid": "85b7b70a-9164-42a5-8b87-daca6d1fe885",
+      "rawTextureUuid": "2aabfc59-1725-4263-8e41-b9820aa7fcee",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
@@ -24,14 +24,14 @@
       "offsetY": 0,
       "trimX": 0,
       "trimY": 0,
-      "width": 26,
-      "height": 25,
-      "rawWidth": 26,
-      "rawHeight": 25,
-      "borderTop": 12,
-      "borderBottom": 13,
-      "borderLeft": 13,
-      "borderRight": 13,
+      "width": 512,
+      "height": 512,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
       "subMetas": {}
     }
   }

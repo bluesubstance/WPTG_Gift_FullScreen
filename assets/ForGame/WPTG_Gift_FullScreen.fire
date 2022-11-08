@@ -567,7 +567,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "Frame_Name",
+    "_name": "Frame_Message",
     "_objFlags": 0,
     "_parent": {
       "__id__": 10
@@ -597,7 +597,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 509.19,
+      "width": 525.63,
       "height": 86
     },
     "_anchorPoint": {
@@ -659,7 +659,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 385.19,
+      "width": 401.63,
       "height": 63
     },
     "_anchorPoint": {
@@ -706,7 +706,7 @@
     "_enabled": true,
     "_fontFamily": "Arial",
     "_isSystemFontUsed": true,
-    "_N$string": "<color=#11c5bc>Playername</c><color=#eaeaea> sent </color><color=#c19311>Freezing</color>",
+    "_N$string": "<color=#11c5bc>PlayerName</c><color=#eaeaea> sent </color><color=#c19311>GiftName</color>",
     "_N$horizontalAlign": 0,
     "_N$fontSize": 33,
     "_N$font": null,
@@ -759,7 +759,7 @@
     "_enabled": true,
     "_layoutSize": {
       "__type__": "cc.Size",
-      "width": 509.19,
+      "width": 525.63,
       "height": 86
     },
     "_resize": 1,
