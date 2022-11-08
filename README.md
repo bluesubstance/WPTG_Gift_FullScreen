@@ -1,1 +1,1 @@
-# WPTG_Gift_Freeze
+# WPTG_Gift_FullScreen
