@@ -2820,6 +2820,88 @@
             }
           ]
         }
+      },
+      "Node_Ice": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "Node_Rotate_1": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 107
+            },
+            {
+              "frame": 3.533333333333333,
+              "value": -160.45499999999998
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Node_Rotate_2": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": -215
+            },
+            {
+              "frame": 3.533333333333333,
+              "value": -430.42
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Node_Rotate_3": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": -215
+            },
+            {
+              "frame": 3.533333333333333,
+              "value": 51.18700000000001
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 255
+            }
+          ]
+        }
       }
     },
     "props": {
