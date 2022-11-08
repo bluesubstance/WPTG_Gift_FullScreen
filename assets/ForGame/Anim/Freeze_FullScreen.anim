@@ -2785,27 +2785,38 @@
           ]
         }
       },
-      "Ice_ScreenTile": {
+      "Node_Ice/Ice_ScreenTile_1": {
         "props": {
           "opacity": [
             {
-              "frame": 0.3333333333333333,
-              "value": 0,
-              "curve": "cubicOut"
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 255
             },
             {
               "frame": 1.1,
-              "value": 102
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Node_Ice/Ice_ScreenTile_2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
             },
             {
-              "frame": 2.8333333333333335,
-              "value": 102,
-              "curve": "cubicOut"
-            },
-            {
-              "frame": 3.533333333333333,
-              "value": 0,
-              "curve": "cubicOut"
+              "frame": 1.1,
+              "value": 255
             }
           ]
         }

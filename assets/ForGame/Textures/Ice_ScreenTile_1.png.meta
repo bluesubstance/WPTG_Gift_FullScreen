@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "2aabfc59-1725-4263-8e41-b9820aa7fcee",
+  "uuid": "c8c985ee-cce3-47c6-88fc-c40bae3607df",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -12,11 +12,11 @@
   "height": 1024,
   "platformSettings": {},
   "subMetas": {
-    "Ice_ScreenTile": {
+    "Ice_ScreenTile_1": {
       "ver": "1.0.6",
-      "uuid": "4f1c99c0-cce9-4582-9863-1e162997efe8",
+      "uuid": "af276c87-8ae0-4f9e-9fe7-df1765c497d9",
       "importer": "sprite-frame",
-      "rawTextureUuid": "2aabfc59-1725-4263-8e41-b9820aa7fcee",
+      "rawTextureUuid": "c8c985ee-cce3-47c6-88fc-c40bae3607df",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
