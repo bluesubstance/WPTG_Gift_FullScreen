@@ -1,0 +1,637 @@
+
+Shark.png
+size: 1022,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eyes
+  rotate: false
+  xy: 428, 358
+  size: 463, 162
+  orig: 463, 162
+  offset: 0, 0
+  index: -1
+fin_T
+  rotate: true
+  xy: 2, 613
+  size: 134, 348
+  orig: 134, 348
+  offset: 0, 0
+  index: -1
+front/o_eyes_L
+  rotate: true
+  xy: 703, 522
+  size: 150, 187
+  orig: 150, 187
+  offset: 0, 0
+  index: -1
+front/o_eyes_R
+  rotate: true
+  xy: 2, 461
+  size: 150, 187
+  orig: 150, 187
+  offset: 0, 0
+  index: -1
+front/o_throat
+  rotate: true
+  xy: 352, 599
+  size: 143, 146
+  orig: 143, 146
+  offset: 0, 0
+  index: -1
+fx/10
+  rotate: false
+  xy: 478, 942
+  size: 59, 58
+  orig: 67, 66
+  offset: 4, 4
+  index: -1
+fx/32
+  rotate: true
+  xy: 539, 938
+  size: 62, 191
+  orig: 62, 191
+  offset: 0, 0
+  index: -1
+fx/glare/1
+  rotate: true
+  xy: 21, 1002
+  size: 18, 58
+  orig: 18, 58
+  offset: 0, 0
+  index: -1
+fx/glare/10
+  rotate: true
+  xy: 561, 1002
+  size: 18, 58
+  orig: 18, 58
+  offset: 0, 0
+  index: -1
+fx/glare/11
+  rotate: true
+  xy: 621, 1002
+  size: 18, 58
+  orig: 18, 58
+  offset: 0, 0
+  index: -1
+fx/glare/12
+  rotate: true
+  xy: 681, 1002
+  size: 18, 58
+  orig: 18, 58
+  offset: 0, 0
+  index: -1
+fx/glare/13
+  rotate: true
+  xy: 741, 1002
+  size: 18, 58
+  orig: 18, 58
+  offset: 0, 0
+  index: -1
+fx/glare/14
+  rotate: true
+  xy: 801, 1002
+  size: 18, 58
+  orig: 18, 58
+  offset: 0, 0
+  index: -1
+fx/glare/15
+  rotate: true
+  xy: 861, 1002
+  size: 18, 58
+  orig: 18, 58
+  offset: 0, 0
+  index: -1
+fx/glare/16
+  rotate: true
+  xy: 921, 1002
+  size: 18, 58
+  orig: 18, 58
+  offset: 0, 0
+  index: -1
+fx/glare/17
+  rotate: true
+  xy: 2, 982
+  size: 18, 58
+  orig: 18, 58
+  offset: 0, 0
+  index: -1
+fx/glare/2
+  rotate: true
+  xy: 81, 1002
+  size: 18, 58
+  orig: 18, 58
+  offset: 0, 0
+  index: -1
+fx/glare/3
+  rotate: true
+  xy: 141, 1002
+  size: 18, 58
+  orig: 18, 58
+  offset: 0, 0
+  index: -1
+fx/glare/4
+  rotate: true
+  xy: 201, 1002
+  size: 18, 58
+  orig: 18, 58
+  offset: 0, 0
+  index: -1
+fx/glare/5
+  rotate: true
+  xy: 261, 1002
+  size: 18, 58
+  orig: 18, 58
+  offset: 0, 0
+  index: -1
+fx/glare/6
+  rotate: true
+  xy: 321, 1002
+  size: 18, 58
+  orig: 18, 58
+  offset: 0, 0
+  index: -1
+fx/glare/7
+  rotate: true
+  xy: 381, 1002
+  size: 18, 58
+  orig: 18, 58
+  offset: 0, 0
+  index: -1
+fx/glare/8
+  rotate: true
+  xy: 441, 1002
+  size: 18, 58
+  orig: 18, 58
+  offset: 0, 0
+  index: -1
+fx/glare/9
+  rotate: true
+  xy: 501, 1002
+  size: 18, 58
+  orig: 18, 58
+  offset: 0, 0
+  index: -1
+fx/splash/1
+  rotate: false
+  xy: 62, 982
+  size: 61, 18
+  orig: 106, 103
+  offset: 22, 2
+  index: -1
+fx/splash/10
+  rotate: false
+  xy: 405, 848
+  size: 102, 92
+  orig: 106, 103
+  offset: 2, 6
+  index: -1
+fx/splash/11
+  rotate: false
+  xy: 2, 793
+  size: 100, 95
+  orig: 106, 103
+  offset: 2, 4
+  index: -1
+fx/splash/12
+  rotate: false
+  xy: 414, 744
+  size: 98, 98
+  orig: 106, 103
+  offset: 4, 3
+  index: -1
+fx/splash/13
+  rotate: true
+  xy: 313, 749
+  size: 97, 99
+  orig: 106, 103
+  offset: 4, 2
+  index: -1
+fx/splash/14
+  rotate: true
+  xy: 104, 758
+  size: 95, 100
+  orig: 106, 103
+  offset: 5, 2
+  index: -1
+fx/splash/15
+  rotate: true
+  xy: 509, 844
+  size: 92, 101
+  orig: 106, 103
+  offset: 7, 1
+  index: -1
+fx/splash/16
+  rotate: true
+  xy: 2, 890
+  size: 90, 101
+  orig: 106, 103
+  offset: 7, 1
+  index: -1
+fx/splash/17
+  rotate: true
+  xy: 381, 944
+  size: 56, 95
+  orig: 106, 103
+  offset: 17, 1
+  index: -1
+fx/splash/2
+  rotate: true
+  xy: 732, 924
+  size: 76, 97
+  orig: 106, 103
+  offset: 23, 3
+  index: -1
+fx/splash/3
+  rotate: true
+  xy: 202, 855
+  size: 94, 95
+  orig: 106, 103
+  offset: 7, 4
+  index: -1
+fx/splash/4
+  rotate: false
+  xy: 717, 828
+  size: 97, 94
+  orig: 106, 103
+  offset: 5, 4
+  index: -1
+fx/splash/5
+  rotate: false
+  xy: 816, 816
+  size: 100, 94
+  orig: 106, 103
+  offset: 4, 4
+  index: -1
+fx/splash/6
+  rotate: false
+  xy: 918, 816
+  size: 102, 94
+  orig: 106, 103
+  offset: 2, 4
+  index: -1
+fx/splash/7
+  rotate: false
+  xy: 612, 843
+  size: 103, 93
+  orig: 106, 103
+  offset: 2, 5
+  index: -1
+fx/splash/8
+  rotate: false
+  xy: 299, 850
+  size: 104, 92
+  orig: 106, 103
+  offset: 1, 5
+  index: -1
+fx/splash/9
+  rotate: false
+  xy: 831, 912
+  size: 103, 88
+  orig: 106, 103
+  offset: 1, 8
+  index: -1
+fx/water/1
+  rotate: true
+  xy: 2, 1005
+  size: 15, 17
+  orig: 348, 197
+  offset: 143, 101
+  index: -1
+fx/water/10
+  rotate: false
+  xy: 500, 545
+  size: 201, 147
+  orig: 348, 197
+  offset: 46, 1
+  index: -1
+fx/water/11
+  rotate: false
+  xy: 191, 415
+  size: 235, 182
+  orig: 348, 197
+  offset: 20, 1
+  index: -1
+fx/water/12
+  rotate: false
+  xy: 273, 161
+  size: 255, 195
+  orig: 348, 197
+  offset: 2, 1
+  index: -1
+fx/water/13
+  rotate: false
+  xy: 530, 161
+  size: 262, 195
+  orig: 348, 197
+  offset: 1, 1
+  index: -1
+fx/water/14
+  rotate: true
+  xy: 794, 47
+  size: 309, 195
+  orig: 348, 197
+  offset: 1, 1
+  index: -1
+fx/water/2
+  rotate: true
+  xy: 981, 1002
+  size: 18, 23
+  orig: 348, 197
+  offset: 142, 95
+  index: -1
+fx/water/3
+  rotate: true
+  xy: 125, 971
+  size: 29, 39
+  orig: 348, 197
+  offset: 133, 94
+  index: -1
+fx/water/4
+  rotate: false
+  xy: 302, 945
+  size: 77, 55
+  orig: 348, 197
+  offset: 132, 83
+  index: -1
+fx/water/5
+  rotate: true
+  xy: 105, 859
+  size: 90, 95
+  orig: 348, 197
+  offset: 132, 46
+  index: -1
+fx/water/6
+  rotate: true
+  xy: 206, 753
+  size: 95, 105
+  orig: 348, 197
+  offset: 129, 37
+  index: -1
+fx/water/7
+  rotate: true
+  xy: 514, 722
+  size: 119, 124
+  orig: 348, 197
+  offset: 110, 18
+  index: -1
+fx/water/8
+  rotate: false
+  xy: 640, 694
+  size: 132, 132
+  orig: 348, 197
+  offset: 102, 10
+  index: -1
+fx/water/9
+  rotate: false
+  xy: 774, 674
+  size: 153, 140
+  orig: 348, 197
+  offset: 86, 3
+  index: -1
+nose
+  rotate: false
+  xy: 2, 223
+  size: 269, 190
+  orig: 269, 190
+  offset: 0, 0
+  index: -1
+throat
+  rotate: false
+  xy: 166, 951
+  size: 134, 49
+  orig: 134, 49
+  offset: 0, 0
+  index: -1
+
+Shark2.png
+size: 987,987
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/water/15
+  rotate: false
+  xy: 2, 790
+  size: 336, 195
+  orig: 348, 197
+  offset: 1, 1
+  index: -1
+fx/water/16
+  rotate: false
+  xy: 340, 790
+  size: 342, 195
+  orig: 348, 197
+  offset: 1, 1
+  index: -1
+fx/water/17
+  rotate: true
+  xy: 684, 639
+  size: 346, 195
+  orig: 348, 197
+  offset: 1, 1
+  index: -1
+fx/water/18
+  rotate: false
+  xy: 2, 593
+  size: 346, 195
+  orig: 348, 197
+  offset: 1, 1
+  index: -1
+fx/water/19
+  rotate: false
+  xy: 350, 442
+  size: 346, 195
+  orig: 348, 197
+  offset: 1, 1
+  index: -1
+fx/water/20
+  rotate: false
+  xy: 2, 396
+  size: 346, 195
+  orig: 348, 197
+  offset: 1, 1
+  index: -1
+fx/water/21
+  rotate: true
+  xy: 698, 291
+  size: 346, 195
+  orig: 348, 197
+  offset: 1, 1
+  index: -1
+fx/water/22
+  rotate: false
+  xy: 350, 245
+  size: 346, 195
+  orig: 348, 197
+  offset: 1, 1
+  index: -1
+fx/water/23
+  rotate: false
+  xy: 2, 199
+  size: 346, 195
+  orig: 348, 197
+  offset: 1, 1
+  index: -1
+fx/water/24
+  rotate: false
+  xy: 350, 48
+  size: 346, 195
+  orig: 348, 197
+  offset: 1, 1
+  index: -1
+fx/water/25
+  rotate: false
+  xy: 2, 2
+  size: 346, 195
+  orig: 348, 197
+  offset: 1, 1
+  index: -1
+
+Shark3.png
+size: 983,983
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fin_L
+  rotate: false
+  xy: 350, 391
+  size: 414, 196
+  orig: 414, 196
+  offset: 0, 0
+  index: -1
+fin_R
+  rotate: true
+  xy: 766, 219
+  size: 414, 196
+  orig: 414, 196
+  offset: 0, 0
+  index: -1
+front/o_teeth_b
+  rotate: false
+  xy: 488, 2
+  size: 426, 215
+  orig: 426, 215
+  offset: 0, 0
+  index: -1
+front/o_teeth_t1
+  rotate: false
+  xy: 2, 190
+  size: 484, 199
+  orig: 484, 199
+  offset: 0, 0
+  index: -1
+fx/water/26
+  rotate: false
+  xy: 2, 786
+  size: 346, 195
+  orig: 348, 197
+  offset: 1, 1
+  index: -1
+fx/water/27
+  rotate: false
+  xy: 350, 786
+  size: 346, 195
+  orig: 348, 197
+  offset: 1, 1
+  index: -1
+fx/water/28
+  rotate: true
+  xy: 698, 635
+  size: 346, 195
+  orig: 348, 197
+  offset: 1, 1
+  index: -1
+fx/water/29
+  rotate: false
+  xy: 2, 589
+  size: 346, 195
+  orig: 348, 197
+  offset: 1, 1
+  index: -1
+fx/water/30
+  rotate: false
+  xy: 350, 589
+  size: 346, 195
+  orig: 348, 197
+  offset: 1, 1
+  index: -1
+fx/water/31
+  rotate: false
+  xy: 2, 392
+  size: 346, 195
+  orig: 348, 197
+  offset: 1, 1
+  index: -1
+fx/water/32
+  rotate: false
+  xy: 2, 392
+  size: 346, 195
+  orig: 348, 197
+  offset: 1, 1
+  index: -1
+
+Shark4.png
+size: 945,945
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front/o_teeth_b1
+  rotate: true
+  xy: 588, 435
+  size: 508, 355
+  orig: 508, 355
+  offset: 0, 0
+  index: -1
+front/o_teeth_t
+  rotate: false
+  xy: 2, 423
+  size: 508, 260
+  orig: 508, 260
+  offset: 0, 0
+  index: -1
+teeth
+  rotate: false
+  xy: 2, 685
+  size: 584, 258
+  orig: 584, 271
+  offset: 0, 13
+  index: -1
+
+Shark5.png
+size: 629,629
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tail
+  rotate: false
+  xy: 2, 40
+  size: 625, 587
+  orig: 625, 587
+  offset: 0, 0
+  index: -1
+
+Shark6.png
+size: 658,658
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 54
+  size: 654, 602
+  orig: 654, 602
+  offset: 0, 0
+  index: -1
+
+Shark7.png
+size: 756,756
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front/o_body
+  rotate: false
+  xy: 2, 2
+  size: 685, 752
+  orig: 685, 752
+  offset: 0, 0
+  index: -1
