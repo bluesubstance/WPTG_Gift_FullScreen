@@ -33,25 +33,7 @@
             },
             {
               "frame": 2,
-              "value": 400
-            }
-          ],
-          "scale": [
-            {
-              "frame": 0,
-              "value": {
-                "__type__": "cc.Vec2",
-                "x": 1,
-                "y": 0.5
-              }
-            },
-            {
-              "frame": 2,
-              "value": {
-                "__type__": "cc.Vec2",
-                "x": 3,
-                "y": 0.5
-              }
+              "value": 800
             }
           ]
         }
@@ -65,25 +47,7 @@
             },
             {
               "frame": 2,
-              "value": -430
-            }
-          ],
-          "scale": [
-            {
-              "frame": 0,
-              "value": {
-                "__type__": "cc.Vec2",
-                "x": 1,
-                "y": 0.5
-              }
-            },
-            {
-              "frame": 2,
-              "value": {
-                "__type__": "cc.Vec2",
-                "x": 3,
-                "y": 0.5
-              }
+              "value": -830
             }
           ]
         }
