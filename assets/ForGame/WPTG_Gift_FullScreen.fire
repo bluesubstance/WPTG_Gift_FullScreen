@@ -4323,8 +4323,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        0,
-        359.503,
+        -11.487,
+        132.061,
         0,
         0,
         0,
@@ -4361,13 +4361,13 @@
         "__uuid__": "d147dfd9-3bb6-42f7-9ae7-a83d41dcb184"
       }
     ],
-    "duration": 0.5,
-    "_capacity": 15,
+    "duration": 0.7,
+    "_capacity": 10,
     "loop": false,
     "playOnAwake": true,
     "_prewarm": false,
     "_simulationSpace": 1,
-    "simulationSpeed": 1,
+    "simulationSpeed": 0.8,
     "startDelay": {
       "__id__": 86
     },
@@ -4424,7 +4424,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 3,
-    "constantMin": 0.5,
+    "constantMin": 0.7,
     "constantMax": 1,
     "multiplier": 1
   },
@@ -4468,7 +4468,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 0,
-    "constant": 30,
+    "constant": 50,
     "multiplier": 1
   },
   {
@@ -4734,8 +4734,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        0,
-        280.439,
+        -11.487,
+        52.997,
         0,
         0,
         0,
@@ -4772,13 +4772,13 @@
         "__uuid__": "0815db98-abd1-40a5-a923-0dc22a95dacf"
       }
     ],
-    "duration": 0.5,
-    "_capacity": 15,
+    "duration": 0.7,
+    "_capacity": 10,
     "loop": false,
     "playOnAwake": true,
     "_prewarm": false,
     "_simulationSpace": 1,
-    "simulationSpeed": 1,
+    "simulationSpeed": 0.8,
     "startDelay": {
       "__id__": 119
     },
@@ -4835,7 +4835,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 3,
-    "constantMin": 0.5,
+    "constantMin": 0.7,
     "constantMax": 1,
     "multiplier": 1
   },
@@ -4879,7 +4879,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 0,
-    "constant": 30,
+    "constant": 50,
     "multiplier": 1
   },
   {
@@ -5145,8 +5145,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        0,
-        359.503,
+        -11.487,
+        132.061,
         0,
         0,
         0,
@@ -5183,13 +5183,13 @@
         "__uuid__": "4c649cfa-94ba-46ba-9447-9465864a04f0"
       }
     ],
-    "duration": 0.5,
-    "_capacity": 15,
+    "duration": 0.7,
+    "_capacity": 10,
     "loop": false,
     "playOnAwake": true,
     "_prewarm": false,
     "_simulationSpace": 1,
-    "simulationSpeed": 1,
+    "simulationSpeed": 0.8,
     "startDelay": {
       "__id__": 152
     },
@@ -5246,7 +5246,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 3,
-    "constantMin": 0.5,
+    "constantMin": 0.7,
     "constantMax": 1,
     "multiplier": 1
   },
@@ -5290,7 +5290,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 0,
-    "constant": 30,
+    "constant": 50,
     "multiplier": 1
   },
   {
@@ -5556,8 +5556,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        46.121,
-        319.971,
+        34.634,
+        92.529,
         0,
         0,
         0,
@@ -5594,13 +5594,13 @@
         "__uuid__": "6a040350-6c4b-4983-bbbe-5d42eb3b755b"
       }
     ],
-    "duration": 0.5,
-    "_capacity": 15,
+    "duration": 0.7,
+    "_capacity": 10,
     "loop": false,
     "playOnAwake": true,
     "_prewarm": false,
     "_simulationSpace": 1,
-    "simulationSpeed": 1,
+    "simulationSpeed": 0.8,
     "startDelay": {
       "__id__": 185
     },
@@ -5657,7 +5657,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 3,
-    "constantMin": 0.5,
+    "constantMin": 0.7,
     "constantMax": 1,
     "multiplier": 1
   },
@@ -5701,7 +5701,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 0,
-    "constant": 30,
+    "constant": 50,
     "multiplier": 1
   },
   {
@@ -5967,8 +5967,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        -42.827,
-        397.388,
+        -54.314,
+        169.946,
         0,
         0,
         0,
@@ -6005,13 +6005,13 @@
         "__uuid__": "61e19a6a-ec75-43df-b9e4-ff16909d00b3"
       }
     ],
-    "duration": 0.5,
-    "_capacity": 15,
+    "duration": 0.7,
+    "_capacity": 10,
     "loop": false,
     "playOnAwake": true,
     "_prewarm": false,
     "_simulationSpace": 1,
-    "simulationSpeed": 1,
+    "simulationSpeed": 0.8,
     "startDelay": {
       "__id__": 218
     },
@@ -6068,7 +6068,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 3,
-    "constantMin": 0.5,
+    "constantMin": 0.7,
     "constantMax": 1,
     "multiplier": 1
   },
@@ -6112,7 +6112,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 0,
-    "constant": 30,
+    "constant": 50,
     "multiplier": 1
   },
   {
@@ -6378,8 +6378,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        46.121,
-        319.971,
+        34.634,
+        92.529,
         0,
         0,
         0,
@@ -6416,13 +6416,13 @@
         "__uuid__": "19532284-0e3f-4ed6-b0a6-1c5264a7b0bd"
       }
     ],
-    "duration": 0.5,
-    "_capacity": 15,
+    "duration": 0.7,
+    "_capacity": 10,
     "loop": false,
     "playOnAwake": true,
     "_prewarm": false,
     "_simulationSpace": 1,
-    "simulationSpeed": 1,
+    "simulationSpeed": 0.8,
     "startDelay": {
       "__id__": 251
     },
@@ -6479,7 +6479,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 3,
-    "constantMin": 0.5,
+    "constantMin": 0.7,
     "constantMax": 1,
     "multiplier": 1
   },
@@ -6523,7 +6523,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 0,
-    "constant": 30,
+    "constant": 50,
     "multiplier": 1
   },
   {
@@ -6789,8 +6789,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        -75.771,
-        357.856,
+        -87.258,
+        130.414,
         0,
         0,
         0,
@@ -6827,13 +6827,13 @@
         "__uuid__": "bb2f84b3-e41f-48bf-aa0e-f5f4f3455de9"
       }
     ],
-    "duration": 0.5,
-    "_capacity": 15,
+    "duration": 0.7,
+    "_capacity": 10,
     "loop": false,
     "playOnAwake": true,
     "_prewarm": false,
     "_simulationSpace": 1,
-    "simulationSpeed": 1,
+    "simulationSpeed": 0.8,
     "startDelay": {
       "__id__": 284
     },
@@ -6890,7 +6890,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 3,
-    "constantMin": 0.5,
+    "constantMin": 0.7,
     "constantMax": 1,
     "multiplier": 1
   },
@@ -6934,7 +6934,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 0,
-    "constant": 30,
+    "constant": 50,
     "multiplier": 1
   },
   {
@@ -7200,8 +7200,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        46.121,
-        319.971,
+        34.634,
+        92.529,
         0,
         0,
         0,
@@ -7238,13 +7238,13 @@
         "__uuid__": "0dd25f1b-e79c-4cca-b690-8542f53a6324"
       }
     ],
-    "duration": 0.5,
-    "_capacity": 15,
+    "duration": 0.7,
+    "_capacity": 10,
     "loop": false,
     "playOnAwake": true,
     "_prewarm": false,
     "_simulationSpace": 1,
-    "simulationSpeed": 1,
+    "simulationSpeed": 0.8,
     "startDelay": {
       "__id__": 317
     },
@@ -7301,7 +7301,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 3,
-    "constantMin": 0.5,
+    "constantMin": 0.7,
     "constantMax": 1,
     "multiplier": 1
   },
@@ -7345,7 +7345,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 0,
-    "constant": 30,
+    "constant": 50,
     "multiplier": 1
   },
   {
@@ -7611,8 +7611,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        -42.827,
-        397.388,
+        -54.314,
+        169.946,
         0,
         0,
         0,
@@ -7649,13 +7649,13 @@
         "__uuid__": "14701d06-be9c-478c-91ef-2a3544cf4db2"
       }
     ],
-    "duration": 0.5,
-    "_capacity": 15,
+    "duration": 0.7,
+    "_capacity": 10,
     "loop": false,
     "playOnAwake": true,
     "_prewarm": false,
     "_simulationSpace": 1,
-    "simulationSpeed": 1,
+    "simulationSpeed": 0.8,
     "startDelay": {
       "__id__": 350
     },
@@ -7712,7 +7712,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 3,
-    "constantMin": 0.5,
+    "constantMin": 0.7,
     "constantMax": 1,
     "multiplier": 1
   },
@@ -7756,7 +7756,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 0,
-    "constant": 30,
+    "constant": 50,
     "multiplier": 1
   },
   {
@@ -8022,8 +8022,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        46.121,
-        319.971,
+        34.634,
+        92.529,
         0,
         0,
         0,
@@ -8060,13 +8060,13 @@
         "__uuid__": "3c4b4cdb-ddee-4347-a222-4b8c582b0000"
       }
     ],
-    "duration": 0.5,
-    "_capacity": 15,
+    "duration": 0.7,
+    "_capacity": 10,
     "loop": false,
     "playOnAwake": true,
     "_prewarm": false,
     "_simulationSpace": 1,
-    "simulationSpeed": 1,
+    "simulationSpeed": 0.8,
     "startDelay": {
       "__id__": 383
     },
@@ -8123,7 +8123,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 3,
-    "constantMin": 0.5,
+    "constantMin": 0.7,
     "constantMax": 1,
     "multiplier": 1
   },
@@ -8167,7 +8167,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 0,
-    "constant": 30,
+    "constant": 50,
     "multiplier": 1
   },
   {
