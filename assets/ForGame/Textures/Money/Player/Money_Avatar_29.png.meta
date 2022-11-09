@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "cbe3e332-aca6-4c54-ae14-66a19dedd22d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 165,
+  "height": 190,
+  "platformSettings": {},
+  "subMetas": {
+    "Money_Avatar_29": {
+      "ver": "1.0.6",
+      "uuid": "5c0e8649-bdb0-431b-b0a2-26c38da69d2c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "cbe3e332-aca6-4c54-ae14-66a19dedd22d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": -9,
+      "trimX": 2,
+      "trimY": 28,
+      "width": 158,
+      "height": 152,
+      "rawWidth": 165,
+      "rawHeight": 190,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
