@@ -4232,12 +4232,12 @@
       "ctor": "Float64Array",
       "array": [
         0,
+        264.896,
+        0,
+        0.9594665955482373,
         0,
         0,
-        0.8852921918819191,
-        0,
-        0,
-        0.46503519758498646,
+        0.281822376732358,
         1,
         1,
         1
@@ -4245,7 +4245,7 @@
     },
     "_eulerAngles": {
       "__type__": "cc.Vec3",
-      "x": 124.575,
+      "x": 147.262,
       "y": 0,
       "z": 0
     },
@@ -4270,7 +4270,7 @@
       }
     ],
     "duration": 2,
-    "_capacity": 100,
+    "_capacity": 300,
     "loop": false,
     "playOnAwake": true,
     "_prewarm": false,
@@ -4331,8 +4331,9 @@
   },
   {
     "__type__": "cc.CurveRange",
-    "mode": 0,
-    "constant": 1,
+    "mode": 3,
+    "constantMin": 0.5,
+    "constantMax": 1,
     "multiplier": 1
   },
   {
@@ -4356,7 +4357,7 @@
     "__type__": "cc.CurveRange",
     "mode": 3,
     "constantMin": 1000,
-    "constantMax": 1500,
+    "constantMax": 2000,
     "multiplier": 1
   },
   {
@@ -4369,7 +4370,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 0,
-    "constant": -300,
+    "constant": -400,
     "multiplier": 1
   },
   {
