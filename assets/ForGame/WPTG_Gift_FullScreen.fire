@@ -4323,8 +4323,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        -11.487,
-        132.061,
+        0,
+        0,
         0,
         0,
         0,
@@ -4522,7 +4522,7 @@
     "alignToDirection": false,
     "randomDirectionAmount": 0,
     "sphericalDirectionAmount": 0,
-    "randomPositionAmount": 0
+    "randomPositionAmount": 100
   },
   {
     "__type__": "cc.CurveRange",
@@ -4798,8 +4798,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        -11.487,
-        52.997,
+        0,
+        0,
         0,
         0,
         0,
@@ -4997,7 +4997,7 @@
     "alignToDirection": false,
     "randomDirectionAmount": 0,
     "sphericalDirectionAmount": 0,
-    "randomPositionAmount": 0
+    "randomPositionAmount": 100
   },
   {
     "__type__": "cc.CurveRange",
@@ -5244,8 +5244,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        -11.487,
-        132.061,
+        0,
+        0,
         0,
         0,
         0,
@@ -5443,7 +5443,7 @@
     "alignToDirection": false,
     "randomDirectionAmount": 0,
     "sphericalDirectionAmount": 0,
-    "randomPositionAmount": 0
+    "randomPositionAmount": 100
   },
   {
     "__type__": "cc.CurveRange",
@@ -5690,8 +5690,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        34.634,
-        92.529,
+        0,
+        0,
         0,
         0,
         0,
@@ -5889,7 +5889,7 @@
     "alignToDirection": false,
     "randomDirectionAmount": 0,
     "sphericalDirectionAmount": 0,
-    "randomPositionAmount": 0
+    "randomPositionAmount": 100
   },
   {
     "__type__": "cc.CurveRange",
@@ -6136,8 +6136,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        -54.314,
-        169.946,
+        0,
+        0,
         0,
         0,
         0,
@@ -6335,7 +6335,7 @@
     "alignToDirection": false,
     "randomDirectionAmount": 0,
     "sphericalDirectionAmount": 0,
-    "randomPositionAmount": 0
+    "randomPositionAmount": 100
   },
   {
     "__type__": "cc.CurveRange",
@@ -6582,8 +6582,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        34.634,
-        92.529,
+        0,
+        0,
         0,
         0,
         0,
@@ -6781,7 +6781,7 @@
     "alignToDirection": false,
     "randomDirectionAmount": 0,
     "sphericalDirectionAmount": 0,
-    "randomPositionAmount": 0
+    "randomPositionAmount": 100
   },
   {
     "__type__": "cc.CurveRange",
@@ -7028,8 +7028,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        -87.258,
-        130.414,
+        0,
+        0,
         0,
         0,
         0,
@@ -7227,7 +7227,7 @@
     "alignToDirection": false,
     "randomDirectionAmount": 0,
     "sphericalDirectionAmount": 0,
-    "randomPositionAmount": 0
+    "randomPositionAmount": 100
   },
   {
     "__type__": "cc.CurveRange",
@@ -7474,8 +7474,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        34.634,
-        92.529,
+        0,
+        0,
         0,
         0,
         0,
@@ -7673,7 +7673,7 @@
     "alignToDirection": false,
     "randomDirectionAmount": 0,
     "sphericalDirectionAmount": 0,
-    "randomPositionAmount": 0
+    "randomPositionAmount": 100
   },
   {
     "__type__": "cc.CurveRange",
@@ -7920,8 +7920,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        -54.314,
-        169.946,
+        0,
+        0,
         0,
         0,
         0,
@@ -8119,7 +8119,7 @@
     "alignToDirection": false,
     "randomDirectionAmount": 0,
     "sphericalDirectionAmount": 0,
-    "randomPositionAmount": 0
+    "randomPositionAmount": 100
   },
   {
     "__type__": "cc.CurveRange",
@@ -8366,8 +8366,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        34.634,
-        92.529,
+        0,
+        0,
         0,
         0,
         0,
@@ -8565,7 +8565,7 @@
     "alignToDirection": false,
     "randomDirectionAmount": 0,
     "sphericalDirectionAmount": 0,
-    "randomPositionAmount": 0
+    "randomPositionAmount": 100
   },
   {
     "__type__": "cc.CurveRange",
