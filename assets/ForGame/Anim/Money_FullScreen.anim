@@ -55,6 +55,166 @@
             }
           ]
         }
+      },
+      "Node_Pivot/New 3D Particle_Money_01": {
+        "comps": {
+          "cc.ParticleSystem3D": {
+            "simulationSpeed": [
+              {
+                "frame": 0.16666666666666666,
+                "value": 1
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 0.5
+              }
+            ]
+          }
+        }
+      },
+      "Node_Pivot/New 3D Particle_Money_02": {
+        "comps": {
+          "cc.ParticleSystem3D": {
+            "simulationSpeed": [
+              {
+                "frame": 0.16666666666666666,
+                "value": 1
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 0.5
+              }
+            ]
+          }
+        }
+      },
+      "Node_Pivot/New 3D Particle_Money_03": {
+        "comps": {
+          "cc.ParticleSystem3D": {
+            "simulationSpeed": [
+              {
+                "frame": 0.16666666666666666,
+                "value": 1
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 0.5
+              }
+            ]
+          }
+        }
+      },
+      "Node_Pivot/New 3D Particle_Money_04": {
+        "comps": {
+          "cc.ParticleSystem3D": {
+            "simulationSpeed": [
+              {
+                "frame": 0.16666666666666666,
+                "value": 1
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 0.5
+              }
+            ]
+          }
+        }
+      },
+      "Node_Pivot/New 3D Particle_Money_05": {
+        "comps": {
+          "cc.ParticleSystem3D": {
+            "simulationSpeed": [
+              {
+                "frame": 0.16666666666666666,
+                "value": 1
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 0.5
+              }
+            ]
+          }
+        }
+      },
+      "Node_Pivot/New 3D Particle_Money_06": {
+        "comps": {
+          "cc.ParticleSystem3D": {
+            "simulationSpeed": [
+              {
+                "frame": 0.16666666666666666,
+                "value": 1
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 0.5
+              }
+            ]
+          }
+        }
+      },
+      "Node_Pivot/New 3D Particle_Money_07": {
+        "comps": {
+          "cc.ParticleSystem3D": {
+            "simulationSpeed": [
+              {
+                "frame": 0.16666666666666666,
+                "value": 1
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 0.5
+              }
+            ]
+          }
+        }
+      },
+      "Node_Pivot/New 3D Particle_Money_08": {
+        "comps": {
+          "cc.ParticleSystem3D": {
+            "simulationSpeed": [
+              {
+                "frame": 0.16666666666666666,
+                "value": 1
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 0.5
+              }
+            ]
+          }
+        }
+      },
+      "Node_Pivot/New 3D Particle_Money_09": {
+        "comps": {
+          "cc.ParticleSystem3D": {
+            "simulationSpeed": [
+              {
+                "frame": 0.16666666666666666,
+                "value": 1
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 0.5
+              }
+            ]
+          }
+        }
+      },
+      "Node_Pivot/New 3D Particle_Money_10": {
+        "comps": {
+          "cc.ParticleSystem3D": {
+            "simulationSpeed": [
+              {
+                "frame": 0.16666666666666666,
+                "value": 1
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 0.5
+              }
+            ]
+          }
+        }
       }
     }
   },
