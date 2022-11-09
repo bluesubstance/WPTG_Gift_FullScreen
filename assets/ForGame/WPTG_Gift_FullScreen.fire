@@ -4366,7 +4366,7 @@
     "loop": false,
     "playOnAwake": true,
     "_prewarm": false,
-    "_simulationSpace": 0,
+    "_simulationSpace": 1,
     "simulationSpeed": 1,
     "startDelay": {
       "__id__": 86
@@ -4705,7 +4705,7 @@
       "__id__": 83
     },
     "_children": [],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 118
@@ -4777,7 +4777,7 @@
     "loop": false,
     "playOnAwake": true,
     "_prewarm": false,
-    "_simulationSpace": 0,
+    "_simulationSpace": 1,
     "simulationSpeed": 1,
     "startDelay": {
       "__id__": 119
@@ -5117,7 +5117,7 @@
       "__id__": 83
     },
     "_children": [],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 151
@@ -5189,7 +5189,7 @@
     "loop": false,
     "playOnAwake": true,
     "_prewarm": false,
-    "_simulationSpace": 0,
+    "_simulationSpace": 1,
     "simulationSpeed": 1,
     "startDelay": {
       "__id__": 152
@@ -5528,7 +5528,7 @@
       "__id__": 83
     },
     "_children": [],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 184
@@ -5600,7 +5600,7 @@
     "loop": false,
     "playOnAwake": true,
     "_prewarm": false,
-    "_simulationSpace": 0,
+    "_simulationSpace": 1,
     "simulationSpeed": 1,
     "startDelay": {
       "__id__": 185
@@ -5939,7 +5939,7 @@
       "__id__": 83
     },
     "_children": [],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 217
@@ -6011,7 +6011,7 @@
     "loop": false,
     "playOnAwake": true,
     "_prewarm": false,
-    "_simulationSpace": 0,
+    "_simulationSpace": 1,
     "simulationSpeed": 1,
     "startDelay": {
       "__id__": 218
@@ -6350,7 +6350,7 @@
       "__id__": 83
     },
     "_children": [],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 250
@@ -6422,7 +6422,7 @@
     "loop": false,
     "playOnAwake": true,
     "_prewarm": false,
-    "_simulationSpace": 0,
+    "_simulationSpace": 1,
     "simulationSpeed": 1,
     "startDelay": {
       "__id__": 251
@@ -6761,7 +6761,7 @@
       "__id__": 83
     },
     "_children": [],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 283
@@ -6833,7 +6833,7 @@
     "loop": false,
     "playOnAwake": true,
     "_prewarm": false,
-    "_simulationSpace": 0,
+    "_simulationSpace": 1,
     "simulationSpeed": 1,
     "startDelay": {
       "__id__": 284
@@ -7172,7 +7172,7 @@
       "__id__": 83
     },
     "_children": [],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 316
@@ -7244,7 +7244,7 @@
     "loop": false,
     "playOnAwake": true,
     "_prewarm": false,
-    "_simulationSpace": 0,
+    "_simulationSpace": 1,
     "simulationSpeed": 1,
     "startDelay": {
       "__id__": 317
@@ -7583,7 +7583,7 @@
       "__id__": 83
     },
     "_children": [],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 349
@@ -7655,7 +7655,7 @@
     "loop": false,
     "playOnAwake": true,
     "_prewarm": false,
-    "_simulationSpace": 0,
+    "_simulationSpace": 1,
     "simulationSpeed": 1,
     "startDelay": {
       "__id__": 350
@@ -7994,7 +7994,7 @@
       "__id__": 83
     },
     "_children": [],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 382
@@ -8066,7 +8066,7 @@
     "loop": false,
     "playOnAwake": true,
     "_prewarm": false,
-    "_simulationSpace": 0,
+    "_simulationSpace": 1,
     "simulationSpeed": 1,
     "startDelay": {
       "__id__": 383
