@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "974f5884-bdd7-48f3-a2de-e233074d065f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 884,
+  "height": 1920,
+  "platformSettings": {},
+  "subMetas": {
+    "Tsunami_Screen_120": {
+      "ver": "1.0.6",
+      "uuid": "ba623688-243e-4e90-a44a-22b8293b5d5b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "974f5884-bdd7-48f3-a2de-e233074d065f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 884,
+      "height": 1920,
+      "rawWidth": 884,
+      "rawHeight": 1920,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
