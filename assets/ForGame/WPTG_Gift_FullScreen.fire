@@ -4705,7 +4705,7 @@
       "__id__": 83
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 118
@@ -4828,9 +4828,8 @@
   },
   {
     "__type__": "cc.CurveRange",
-    "mode": 3,
-    "constantMin": 0,
-    "constantMax": 0.5,
+    "mode": 0,
+    "constant": 0,
     "multiplier": 1
   },
   {
@@ -4854,7 +4853,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 0,
-    "constant": 160,
+    "constant": 120,
     "multiplier": 1
   },
   {
@@ -5117,7 +5116,7 @@
       "__id__": 83
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 151
@@ -5265,7 +5264,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 0,
-    "constant": 100,
+    "constant": 140,
     "multiplier": 1
   },
   {
@@ -5528,7 +5527,7 @@
       "__id__": 83
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 184
@@ -5676,7 +5675,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 0,
-    "constant": 160,
+    "constant": 120,
     "multiplier": 1
   },
   {
@@ -5939,7 +5938,7 @@
       "__id__": 83
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 217
@@ -6087,7 +6086,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 0,
-    "constant": 100,
+    "constant": 120,
     "multiplier": 1
   },
   {
@@ -6350,7 +6349,7 @@
       "__id__": 83
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 250
@@ -6498,7 +6497,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 0,
-    "constant": 100,
+    "constant": 130,
     "multiplier": 1
   },
   {
@@ -6761,7 +6760,7 @@
       "__id__": 83
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 283
@@ -6909,7 +6908,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 0,
-    "constant": 100,
+    "constant": 130,
     "multiplier": 1
   },
   {
@@ -7172,7 +7171,7 @@
       "__id__": 83
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 316
@@ -7583,7 +7582,7 @@
       "__id__": 83
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 349
@@ -7731,7 +7730,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 0,
-    "constant": 100,
+    "constant": 110,
     "multiplier": 1
   },
   {
@@ -7994,7 +7993,7 @@
       "__id__": 83
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 382
@@ -8142,7 +8141,7 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 0,
-    "constant": 130,
+    "constant": 120,
     "multiplier": 1
   },
   {
